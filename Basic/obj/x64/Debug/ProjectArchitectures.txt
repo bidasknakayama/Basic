@@ -1,0 +1,1 @@
+D:\develop\visualstudio2\Caliburn.Micro\Basic\Basic\Basic.csproj;x64
